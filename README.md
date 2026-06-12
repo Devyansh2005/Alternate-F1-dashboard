@@ -11,7 +11,7 @@ This repository contains a lightweight static version of our F1 2026 personal da
 ## About
 
 This dummy version includes:
-- Live F1 2026 standings (via Ergast/Jolpi API)
+- Live F1 2026 standings
 - Season calendar with countdown to next race
 - Last race podium & paddock intel
 - 3D circuit hologram viewer (Three.js)
